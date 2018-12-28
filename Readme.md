@@ -1,3 +1,3 @@
 # Wubbi's mad basement
 
-### Home of the Minecraft Script Preprocessor
+### Dusting off the old cellar. New projects, maybe?
